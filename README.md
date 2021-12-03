@@ -20,22 +20,22 @@
 ## 📌 Main Page:
 <br><br>
 
-<img src="images/header.png" alt="welcomemainpage" width="700px" height="400px">
+<img src="header.png" alt="welcomemainpage" width="700px" height="400px">
 <br><br>
-<img src="images/facilities.png" alt="facilities" width="700px" height="400px">
-<br><br>
-
-<img src="images/deluxeroom.png" alt="deluxeroom" width="700px" height="400px">
+<img src="facilities.png" alt="facilities" width="700px" height="400px">
 <br><br>
 
-<img src="images/twinroom.png" alt="twinroom" width="700px" height="400px">
-<br><br>
-<img src="images/standardroom.png" alt="standardroom" width="700px" height="400px">
-<br><br>
-<img src="images/review.png" alt="review" width="700px" height="400px">
+<img src="deluxeroom.png" alt="deluxeroom" width="700px" height="400px">
 <br><br>
 
-<img src="images/footer.png" alt="footer" width="700px" height="400px">
+<img src="twinroom.png" alt="twinroom" width="700px" height="400px">
+<br><br>
+<img src="standardroom.png" alt="standardroom" width="700px" height="400px">
+<br><br>
+<img src="review.png" alt="review" width="700px" height="400px">
+<br><br>
+
+<img src="footer.png" alt="footer" width="700px" height="400px">
 <br><br>
 
 <h2>📌 Contact :</h2>

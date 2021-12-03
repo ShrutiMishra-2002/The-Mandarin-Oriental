@@ -2,7 +2,7 @@
 ## The Mandarin Oriental-Website
 
 <h2> Website Link : 
-<a href="#" target="_blank">HAVE A LOOK</a>
+<a href="https://shrutimishra-2002.github.io/The-Mandarin-Oriental/" target="_blank">HAVE A LOOK</a>
 </h2> 
 <br>
 
@@ -20,7 +20,7 @@
 ## 📌 Main Page:
 <br><br>
 
-<img src="header.png" alt="welcomemainpage" width="700px" height="400px">
+<img src="header.png" alt="mainpage" width="700px" height="400px">
 <br><br>
 <img src="facilities.png" alt="facilities" width="700px" height="400px">
 <br><br>
